@@ -6,7 +6,7 @@ A powerful **cross-platform** notes application built with **Flutter**, supporti
 
 - 🔐 **User Authentication** using **Firebase Auth**
 - 👥 **Multiuser Support** – each user accesses their own session
-- 🧠 **Create, Update, Delete Notes** securely per user
+- 🧠 **Create, Read, Update, Delete Notes (CRUD)** securely by doing API calls to firebase per user
 - 💾 Local data persistence using **SQLite**
 - 📤 **Share notes** via email, WhatsApp, and other platforms
 - 📱 Works on both **Android and iOS**
@@ -22,17 +22,27 @@ A powerful **cross-platform** notes application built with **Flutter**, supporti
 
 ## 📸 Screenshots
 
-### 🔑 Login Screen
-![Login](assets/Sixth.png)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
 
-### 👥 Register Screen
-![Register](assets/Fifth.png)
+  <img src="assets/Sixth.png" alt="Login Screen" width="30%"/>
+  <img src="assets/Fifth.png" alt="Register Screen" width="30%"/>
+  <img src="assets/Fourth.png" alt="Notes Dashboard" width="30%"/>
 
-### 📓 Notes Dashboard
-![Notes List](assets/Fourth.png)
+  <img src="assets/Third.png" alt="Edit Note" width="30%"/>
+  <img src="assets/Second.png" alt="Share Note" width="30%"/>
+</div>
 
-### 📝 Edit Note
-![Edit Note](assets/Third.png)
+## 🔧 Setup Instructions
 
-### 📤 Share Note
-![Share Note](assets/Second.png)
+1. Clone the repository
+2. Run `flutter pub get`
+3. Connect your Firebase project and add `google-services.json` (Android) and/or `GoogleService-Info.plist` (iOS)
+4. Build and run the app on your emulator or device
+
+## 🤝 Contributions
+
+Pull requests and suggestions are welcome! Feel free to fork the repository and improve it.
+
+---
+
+> Created with ❤️ using Flutter, Firebase, and SQLite.
