@@ -39,10 +39,18 @@ A powerful **cross-platform** notes application built with **Flutter**, supporti
 3. Connect your Firebase project and add `google-services.json` (Android) and/or `GoogleService-Info.plist` (iOS)
 4. Build and run the app on your emulator or device
 
+ 
+ ## 📬 Contact Me
+
+- [GitHub](https://github.com/hardivaidya004506)
+- [LinkedIn](https://www.linkedin.com/in/hardi-jignesh-vaidya-118605340/)
+
+---
+
+> 🌟 Feel free to fork this repo, explore the code, or reach out if you'd like to collaborate on cool projects!
+
 ## 🤝 Contributions
 
 Pull requests and suggestions are welcome! Feel free to fork the repository and improve it.
 
----
-
-> Created with ❤️ using Flutter, Firebase, and SQLite.
+--
