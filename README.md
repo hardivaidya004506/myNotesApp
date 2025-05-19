@@ -23,16 +23,16 @@ A powerful **cross-platform** notes application built with **Flutter**, supporti
 ## 📸 Screenshots
 
 ### 🔑 Login Screen
-![Login](Sixth.png)
+![Login](assets/Sixth.png)
 
-### 🔑 Register Screen
-![Register](Fifth.png)
+### 👥 Register Screen
+![Register](assets/Fifth.png)
 
 ### 📓 Notes Dashboard
-![Notes List](Fourth.png)
+![Notes List](assets/Fourth.png)
 
 ### 📝 Edit Note
-![Edit Note](Third.png)
+![Edit Note](assets/Third.png)
 
-### 📝 Share Note
-![Share Note](Second.png)
+### 📤 Share Note
+![Share Note](assets/Second.png)
